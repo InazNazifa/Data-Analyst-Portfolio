@@ -44,3 +44,16 @@ In this section, I will list data analytics projects and briefly describing the 
 - **Description**: The project focuses on a thorough analysis of the Titanic dataset to predict passenger survival using machine learning. The dataset contains demographic and travel-related information about the passengers aboard the Titanic. The project involves data preprocessing, including handling missing data, feature engineering, and building a classification model to predict survival outcomes. The analysis includes detailed Exploratory Data Analysis (EDA) to discover the relationships between passenger characteristics and survival rates.
 - **Skills**: Data preprocessing, exploratory data analysis (EDA), feature, visualization.
 - **Technology**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+- **Results**:
+PassengerId    Survived      Pclass         Age       SibSp       Parch        Fare
+count   889.000000  889.000000  889.000000  889.000000  889.000000  889.000000  889.000000
+mean    446.000000    0.382452    2.311586   29.315152    0.524184    0.382452   32.096681
+std     256.998173    0.486260    0.834700   12.984932    1.103705    0.806761   49.697504
+min       1.000000    0.000000    1.000000    0.420000    0.000000    0.000000    0.000000
+25%     224.000000    0.000000    2.000000   22.000000    0.000000    0.000000    7.895800
+50%     446.000000    0.000000    3.000000   28.000000    0.000000    0.000000   14.454200
+75%     668.000000    1.000000    3.000000   35.000000    1.000000    0.000000   31.000000
+max     891.000000    1.000000    3.000000   80.000000    8.000000    6.000000  512.329200
+Survived
+0    549
+1    340
