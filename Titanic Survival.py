@@ -9,7 +9,7 @@ df = pd.read_csv(url)
 # Display the first few rows
 print(df.head())
 
-# 1. Data Cleaning - Handling missing values
+# Data Cleaning - Handling missing values
 df.isnull().sum()  # Check for missing values
 
 # Fill missing age values with the median
