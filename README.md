@@ -1,4 +1,4 @@
-# Welcome to My Data Analysis Portfolio! 
+# Welcome to my Data Analysis Portfolio! 
 
 Hello, and welcome to my Data Analysis Portfolio! 🎉
 
