@@ -61,8 +61,7 @@ In this section, I will list data analytics projects and briefly describing the 
 - **Skills**: Data wrangling, exploratory data analysis (EDA), hypothesis testing, visualization.
 - **Technology**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 - **Results**:
-1. Subscription Rate for Control Group (Telephone): 14.62%
-2. Subscription Rate for Variant Group (Cellular): 14.36%
-3. Chi-square Statistic: 87.86985650165812, P-Value: 8.30430129641147e-20
-
+Subscription Rate for Control Group (Telephone): 14.62%\
+Subscription Rate for Variant Group (Cellular): 14.36%\
+Chi-square Statistic: 87.86985650165812, P-Value: 8.30430129641147e-20\
 Reject the null hypothesis. The difference in subscription rates is statistically significant.
