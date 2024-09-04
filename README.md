@@ -46,10 +46,8 @@ In this section, I will list data analytics projects and briefly describing the 
 - **Skills**: Data preprocessing, exploratory data analysis (EDA), feature, visualization.
 - **Technology**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
 - **Results**:
-  1. Survival Rate by Gender (Bar Plot): The survival rate for females is significantly higher than that for males. This suggests that gender played an important role in survival, with women having a better chance of surviving the Titanic disaster.
-
-  2. Survival Rate by Passenger Class (Bar Plot): The survival rate is highest for passengers in 1st class, followed by 2nd class, and is lowest for 3rd class. This indicates that wealth or class had a strong influence on the likelihood of survival, with wealthier passengers having a better chance.
-
+  1. Survival Rate by Gender (Bar Plot): The survival rate for females is significantly higher than that for males. This suggests that gender played an important role in survival, with women having a better chance of surviving the Titanic disaster.\n
+  2. Survival Rate by Passenger Class (Bar Plot): The survival rate is highest for passengers in 1st class, followed by 2nd class, and is lowest for 3rd class. This indicates that wealth or class had a strong influence on the likelihood of survival, with wealthier passengers having a better chance.\n
   3. Age Distribution of Passengers (Histogram): Most passengers were in their 20s to 30s, with a peak around age 30. There are fewer passengers in the older age groups, and only a small number of children and elderly were on board.
 
 ### Marketing Campaign A/B Testing Analysis
