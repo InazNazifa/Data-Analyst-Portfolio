@@ -58,7 +58,7 @@ In this section, I will list data analytics projects and briefly describing the 
 - **Description**: This project analyze the impact of two contact methods (telephone and cellular) on subscription rates using an A/B testing approach. The dataset is divided into control (telephone) and variant (cellular) groups. The subscription rates for each group calculated and a chi-square test performed to determine if the differences are statistically significant. Finally, a bar plot is created to visually compare the subscription rates between the two contact methods.
 - **Skills**: Data wrangling, exploratory data analysis (EDA), hypothesis testing, visualization.
 - **Technology**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
-- **Results**:
+- **Results**:\
 Subscription Rate for Control Group (Telephone): 14.62%\
 Subscription Rate for Variant Group (Cellular): 14.36%\
 Chi-square Statistic: 87.86985650165812, P-Value: 8.30430129641147e-20\
