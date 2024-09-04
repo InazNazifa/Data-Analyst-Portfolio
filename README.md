@@ -44,3 +44,11 @@ In this section, I will list data analytics projects and briefly describing the 
 - **Description**: The project focuses on a thorough analysis of the Titanic dataset to predict passenger survival using machine learning. The dataset contains demographic and travel-related information about the passengers aboard the Titanic. The project involves data preprocessing, including handling missing data, feature engineering, and building a classification model to predict survival outcomes. The analysis includes detailed Exploratory Data Analysis (EDA) to discover the relationships between passenger characteristics and survival rates.
 - **Skills**: Data preprocessing, exploratory data analysis (EDA), feature, visualization.
 - **Technology**: Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn.
+- **Results**:
+- 1. Survival Rate by Gender (Bar Plot): The survival rate for females is significantly higher than that for males. This suggests that gender played an important role in survival, with women having a better chance of surviving the Titanic disaster.
+
+- 2. Survival Rate by Passenger Class (Bar Plot): The survival rate is highest for passengers in 1st class, followed by 2nd class, and is lowest for 3rd class. This indicates that wealth or class had a strong influence on the likelihood of survival, with wealthier passengers having a better chance.
+
+- 3. Age Distribution of Passengers (Histogram): Most passengers were in their 20s to 30s, with a peak around age 30. There are fewer passengers in the older age groups, and only a small number of children and elderly were on board.
+
+### Marketing Campaign A/B Testing Analysis
