@@ -79,15 +79,16 @@ Reject the null hypothesis. The difference in subscription rates is statisticall
 
 #### Regional Sales and Profit Report
 
-- **Goal**:
-- **Description**:
-- **Conclusion**:
-- **Link to Tableau Public**: 
+- **Goal**: To solve business problems, such as identifying the best-performing products and regions or understanding trends in sales and profitability of a Superstore dataset.
+- **Description**: The Superstore dataset contains sales data for a fictional retail store across the United States. It includes information on sales transactions, product categories, customer demographics, and geographic regions. The dataset is used to create visualizations and dashboards in Tableau that help explore key business metrics such as sales, profit, and customer segments. Analysts can filter data, compare performance across different time periods, and track the profitability of specific products. The dataset is rich with variables like sales, profit, discount, shipping cost, and customer details which making it ideal for exploring business intelligence and analytics concepts.
+- **Conclusion**: Businesses can gain valuable insights such as identifying the most profitable product categories, understanding which regions drive the highest sales, and recognizing customer segments that need attention. For example, specific sub-categories like furniture or office supplies might be more profitable, while certain regions could show a decline in performance. The analysis helps decision-makers focus on high-potential areas for investment and growth, ensuring better resource allocation and improving overall business strategy.
+- **Link to Tableau Public**: [ Regional Sales and Profit Report](https://public.tableau.com/app/profile/inaz.nazifa.dzulkifli/viz/RegionalSalesandProfits_17136209917210/Dashboard3?publish=yes)
 
 ### Power BI Project
 
 #### Financial Report
 
+- **Data Source**:  [ Financial.xslx](https://github.com/InazNazifa/Data-Analyst-Portfolio/blob/main/Financial%20Sample%20(1).xlsx)
 - **Goal**: To analyze financial data for insights on profits generated based on year, geographical performance and investment strategy based on specific product and customer segment.
 - **Description**:
   - **Dashboards**:
@@ -97,3 +98,12 @@ Reject the null hypothesis. The difference in subscription rates is statisticall
     - Sales by Product and Segment: The company should continue to invest in the Paseo product and target the Small Business and Government segments.
 - **Conclusion**: The project provided actionable insights about profitability, geographical performance, and investment strategy.
 - **Link to Power BI Report**: [Financial Report](https://app.powerbi.com/groups/me/reports/ac9c378f-78e9-4b5e-8830-4cb963056a46/9662ba068c5b1eae94dd?experience=power-bi)
+
+## Education
+
+**Universiti Sains Malaysia, Bachelor's degree, Mathematics (Major) Computer Science (Minor)** 2020 - 2024
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/inaznazifa/)
+- Email: inaznazifa@gmail.com
