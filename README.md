@@ -39,7 +39,7 @@ In this section, I will list data analytics projects and briefly describing the 
 
 #### Titanic Survival Analysis
 
-- **Code**: [Titanic Survival.ipynb](https://github.com/Haritha1005/DATA-ANALYSIS-PORTFOLIO/blob/main/App%20Ratings%20Prediction.ipynb)
+- **Code**: [Titanic Survival.ipynb](https://github.com/InazNazifa/Data-Analyst-Portfolio/blob/main/Titanic%20Survival.py)
 - **Goal**: To analyze the survival rates of Titanic passengers based on the age groups, gender and fare distribution across pasenger classes.
 - **Description**: The project focuses on a thorough analysis of the Titanic dataset to predict passenger survival using machine learning. The dataset contains demographic and travel-related information about the passengers aboard the Titanic. The project involves data preprocessing, including handling missing data, feature engineering, and building a classification model to predict survival outcomes. The analysis includes detailed Exploratory Data Analysis (EDA) to discover the relationships between passenger characteristics and survival rates.
 - **Skills**: Data preprocessing, exploratory data analysis (EDA), feature, visualization.
