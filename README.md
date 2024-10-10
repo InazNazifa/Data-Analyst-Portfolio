@@ -15,7 +15,6 @@ Thank you for stopping by! 🚀
   - [SQL Project](#sql-project)
     - [Company Data Mapping](#company-data-mapping)
   - [Excel](#excel--projects)
-    - [Household Income Distribution and Highrise Building Price Analysis](https://github.com/InazNazifa/Data-Analyst-Portfolio/blob/main/Household%20Income%20Distribution%20and%20Highrise%20Building%20Price%20Analysis.xlsx)
     - [Product Optimization](https://github.com/InazNazifa/Data-Analyst-Portfolio/blob/main/Product%20Optimization.xls)
   - [Tableau](#tableau)
     - [Regional Sales and Profit Report](#regional-sales-and-profit-report)
