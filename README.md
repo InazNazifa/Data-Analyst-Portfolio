@@ -26,8 +26,7 @@ Thank you for stopping by! 🚀
 - [Contact](#contact)
 
 ## About
-Hi, I'm Inaz! I am a highly motivated and aspiring pure mathematics student with a solid foundation in statistical analysis, 
-machine learning and data visualization with a strong background in mathematics and programming. 
+Hi, I'm Inaz! I am a highly motivated and aspiring fresh graduate with a strong background in mathematics and programming.  
 Feel free to explore the projects and learn more about the methodologies, datasets, and tools I’ve used. I hope you find my work interesting and informative. 
 
 ## Portfolio Projects
